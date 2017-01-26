@@ -1,6 +1,6 @@
 # HV-TEST v.1.0_alpha
 
-Matteo Albano
+Matteo Albano - 
 Istituto Nazionale di Geofisica e Vulcanologia
 
 A MATLAB tool for the verification of the reliability of the H/V curve and the clarity of the H/V peak according to the SESAME criteria. 
