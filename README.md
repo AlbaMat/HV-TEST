@@ -13,7 +13,7 @@ software <http://www.geopsy.org/>.
 This version allows to verify H/V curves calculated with fixed or
 variable windows length.
 
-If you use H/V-TEST in your work, please cite as: Albano, M., Romaniello,V., (2017). H/V-TEST, a tool for the verification of the reliability and clarity of the H/V peak according to the SESAME criteria. doi:
+If you use H/V-TEST in your work, please cite as: Albano, M., Romaniello,V., (2017). H/V-TEST, a tool for the verification of the reliability and clarity of the H/V peak according to the SESAME criteria. doi:10.5281/zenodo.260131
 
 INSTRUCTIONS
 1) Open the H/V-TEST.m file in your MATLAB environment.
