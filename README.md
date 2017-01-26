@@ -15,7 +15,7 @@ variable windows length.
 
 INSTRUCTIONS
 1) Open the H/V-TEST.m file in your MATLAB environment.
-2) Change the .hv and .log filenames at the corresponding rows. For instructions on how to produce the .hv and .log files, please 
+2) Change the .hv and .log filenames at the corresponding rows (instead of the default TEST files). For instructions on how to produce the .hv and .log files, please 
    refer to the GEOPSY manual.
 3) Execute the code.
 4) The results will be displayed in the Command Window
