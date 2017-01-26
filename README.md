@@ -1,7 +1,7 @@
 H/V-TEST v. 1.0_alpha
 
-Matteo Albano(1) (matteo.albano@ingv.it)
-Vito Romaniello(1)
+Matteo Albano(1) (matteo.albano@ingv.it),
+Vito Romaniello(1),
 (1)Istituto Nazionale di Geofisica e Vulcanologia
 
 Tool for the verification of the reliability of the H/V curve
