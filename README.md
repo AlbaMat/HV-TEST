@@ -20,6 +20,7 @@ INSTRUCTIONS
 3) Execute the code.
 4) The results will be displayed in the Command Window
 
+If you use H/V-TEST in your work, please cite as: Albano, M., Romaniello,V., (2017). H/V-TEST, a tool for the verification of the reliability and clarity of the H/V peak according to the SESAME criteria. doi:
 
 This is an alpha version. Use it at your own risk. 
 
